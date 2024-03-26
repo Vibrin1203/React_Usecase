@@ -1,0 +1,24 @@
+
+body{
+    background: linear-gradient(135deg,#eeaeca,#d5e8ff) !important;
+}
+.ins {
+    border: 3px solid rgb(201, 223, 245);
+    background-color: rgb(224, 242, 250);
+}
+.buttons{
+    width: 40%;
+    height: 50% !important;
+}
+
+.frontpage{
+
+    height: auto !important;
+    display: inline-block;
+    position:absolute;
+    left: 30%;
+    top: 0%;
+   
+}
+
+
